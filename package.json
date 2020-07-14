@@ -1,6 +1,6 @@
 {
   "name": "spux-assets",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "spux assets",
   "main": "index.js",
   "scripts": {
